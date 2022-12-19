@@ -1,9 +1,9 @@
 function closeIcon() {
-  return `<img src="../img/9056866_close_icon.svg">`;
+  return `<img src="/img/9056866_close_icon.svg">`;
 }
 
 function editIcon() {
-  return `<img src="../img/3643749_edit_pen_pencil_write_writing_icon.svg">`;
+  return `<img src="/img/3643749_edit_pen_pencil_write_writing_icon.svg">`;
 }
 
 const todoForm = document.querySelector(".todo_form");
