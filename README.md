@@ -1,2 +1,5 @@
-# PWA_CHWEDU
-PWA Project
+## 🎥 학원 앱(PWA) 🎥
+
+## 📄 프로젝트 소개 📄
+
+## 💻 기술 스택 💻
